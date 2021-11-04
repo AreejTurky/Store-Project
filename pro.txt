@@ -1,0 +1,5 @@
+phone 4000.0
+tablet 200.0
+smartpen 500.0
+cover 80.0
+Ipad 2000.0
